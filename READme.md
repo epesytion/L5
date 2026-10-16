@@ -27,7 +27,7 @@ Task 3. In mu opinion the third task is the hardest task. I noticed that we coul
 <img width="884" height="462" alt="image" src="https://github.com/user-attachments/assets/7409de3b-d022-4e07-92e9-ca11509e9e92" />
 
 
-Task 4. Not so difficult. I need just create registration form and 2 buttons: confirm and reset. And yeah, basic HTML provide the button of 'reset' type. Also, I used bootstrap to combine name and last name into 1 row using col-6 for each of them. Other forms take the whole line bcs of "col-12".
+Task 4. Not so difficult. I need just create registration form and 2 buttons: confirm and reset. And yeah, basic HTML provide the button of 'reset' type. Also, I used bootstrap to combine name and last name into 1 row using col-6 for each of them. Other forms take the whole line bcs of "col-12"
 
 
 <img width="1049" height="700" alt="image" src="https://github.com/user-attachments/assets/1228580a-d74f-4c20-ad52-b43356700379" />
